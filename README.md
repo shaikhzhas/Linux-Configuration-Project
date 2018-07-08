@@ -5,6 +5,10 @@ Host Name: ec2-13-125-243-106.ap-northeast-2.compute.amazonaws.com
 
 IP Address: 13.125.243.106
 
+SSH port : 2200
+
+The complete URL to your hosted web application: http://ec2-13-125-243-106.ap-northeast-2.compute.amazonaws.com
+
 ## Requirements
 
 -  python
@@ -187,4 +191,7 @@ You should see the username changed again in command line, and type `$ psql` to 
 
 - https://github.com/rrjoson/udacity-linux-server-configuration/blob/master/README.md
 
+- https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
+
+- https://github.com/kongling893/Linux-Server-Configuration-UDACITY
 
